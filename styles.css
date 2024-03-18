@@ -1,0 +1,20 @@
+li {
+  border: solid 1px black;
+  margin: 1%;
+}
+
+.name {
+  font-size: larger;
+}
+
+.price {
+  font-size: larger;
+}
+
+.occupation {
+  font-size: larger;
+}
+
+.freelancers {
+  font-size: larger
+}
